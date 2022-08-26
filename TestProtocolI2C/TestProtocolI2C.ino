@@ -1,3 +1,8 @@
+/*********
+  Rui Santos
+  Complete project details at https://randomnerdtutorials.com  
+*********/
+
 #include <Wire.h>
  
 void setup() {
